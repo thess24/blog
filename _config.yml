@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 header_pages:
   - about.md
-  - books.md
   
 show_excerpts: true # set to false to remove excerpts on the homepage
 
