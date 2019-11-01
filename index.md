@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/thess24/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Taylor Hess - quant analyst / machine learning engineer.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About this blog
 
-### Markdown
+The goal of this blog is to be a good **intermediate** level resource for quantitative minded people. I spend a ton of time reading about, using, and creating ML models and this is a place to share the distilled info on what I know (or great resources I’ve found). I’d like to focus on giving an intuition for why things work the way they do,  point out what not to do, and go in depth on overlooked areas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thess24/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Main Topics:
+- Machine Learning / Deep Learning
+- System Design + Architecture
+- Quant Finance
+- Bayesian Modelling
+- Latest ML Research + Interesting Techniques
