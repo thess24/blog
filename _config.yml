@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog on Machine Learning, Quant Finance, Computer Science, System Design, and more.
 # social links
 
-header_pages:
-  - about.md
+# header_pages:
+#   - about.md
   
 show_excerpts: true # set to false to remove excerpts on the homepage
 
