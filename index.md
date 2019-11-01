@@ -1,6 +1,6 @@
 ## Welcome to my blog
 
-I'm Taylor Hess - quant analyst / machine learning engineer.  
+I'm Taylor Hess - quant analyst / machine learning engineer.  Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/taylorwhess/)
 
 ### About this blog
 
