@@ -22,7 +22,7 @@ So much so, that people will often come to me asking for the best technical reso
 
 
 #### Bayesian Stats / Modelling
-- Statistical Rethinking the [book](https://amzn.to/335RVzi) and [the course](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+- Statistical Rethinking the [book](https://amzn.to/335RVzi) and [the course](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)  
 Version 2 of the book is coming out sometime in 2020, which looks even better than the original based on some drafts I've seen from Richard McElreath's website.
 - [Probability Theory: The Science of Logic](https://amzn.to/36pCIuX)
 
