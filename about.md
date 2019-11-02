@@ -4,9 +4,9 @@ title: About
 ---
 
 
-I'm Taylor Hess - quant analyst / machine learning engineer / developer with an affinity for finance.  
+Hi, I'm Taylor Hess - quant analyst / machine learning engineer / developer with an affinity for finance.  
 
-Also a:
+I'm also a:
 - Speaker at AWS and Spark+AI conferences
 - (very minor) Tensorflow contributor
 - Professional taco maker
